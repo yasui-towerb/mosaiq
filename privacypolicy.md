@@ -5,19 +5,21 @@
 
 ## 本アプリが収集、送信する情報の利用目的、送信先
 
-広告表示の為、Unity Technologies社の提供する広告配信サービス「Unity Ads」を使用しております。
-広告配信サービスのプライバシーポリシーにつきましては下記URLをご確認ください。
-
-* 提供者: Unity Technologies
-* 会社概要URL: https://unity3d.com/company
-* サービスURL: https://unityads.unity3d.com/
-* プライバシーポリシーURL: http://unity3d.com/legal/privacy-policy
-
-上記以外でユーザーの個人情報を収集、送信することはありません。
+* 広告表示のため、Unity Technologies社の提供する広告配信サービス「Unity Ads」を使用しています。
+  * 提供者: Unity Technologies
+  * 会社概要: https://unity3d.com/company
+  * サービス: https://unityads.unity3d.com/
+  * プライバシーポリシー: http://unity3d.com/legal/privacy-policy
+* オンラインランキング集計のため、富士通クラウドテクノロジーズ社の提供する「NIFCLOUD mobile backend」を使用しています。
+  * 提供者: 富士通クラウドテクノロジー
+  * 会社概要: https://fjct.fujitsu.com/about/index.html
+  * NIFCLOUD mobile backend: https://mbaas.nifcloud.com/
+  * プライバシーポリシー: https://fjct.fujitsu.com/privacy/index.html
+* 上記以外でユーザーの個人情報を収集、送信することはありません。
 
 ## ユーザー情報の収集、送信の停止
 
-本アプリは収集、送信を停止する手段を提供しておりません。
+本アプリは収集、送信を停止する手段を提供していません。
 送信を停止したい場合は本アプリをアンインストールしてください。
 
 ## 問い合わせ窓口
