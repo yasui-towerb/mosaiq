@@ -10,8 +10,8 @@
   * 会社概要: https://unity3d.com/company
   * サービス: https://unityads.unity3d.com/
   * プライバシーポリシー: http://unity3d.com/legal/privacy-policy
-* オンラインランキング集計のため、富士通クラウドテクノロジーズ社の提供する「NIFCLOUD mobile backend」を使用しています。
-  * 提供者: 富士通クラウドテクノロジー
+* オンラインランキング集計のため、富士通クラウドテクノロジーズ株式会社の提供する「NIFCLOUD mobile backend」を使用しています。
+  * 提供者: 富士通クラウドテクノロジーズ株式会社
   * 会社概要: https://fjct.fujitsu.com/about/index.html
   * NIFCLOUD mobile backend: https://mbaas.nifcloud.com/
   * プライバシーポリシー: https://fjct.fujitsu.com/privacy/index.html
